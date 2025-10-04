@@ -7,7 +7,6 @@ A C program that recovers a jpeg image format from a forensic image of a memory 
 Features:
 
 Reads a raw file containing a sequence of 512-byte blocks.
-
 Identifies JPEG images by detecting their start signatures (e.g., 0xff 0xd8 0xff 0xe*).
 
 Writes each recovered JPEG to a new file in the current directory.
