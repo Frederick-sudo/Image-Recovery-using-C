@@ -32,4 +32,4 @@ Run the program with the raw file
 
 Check the output: JPEG files are created in the current directory.
 
-
+Ensure you have write permissions in the project directories to create/modify files
