@@ -22,3 +22,14 @@ card.raw: A sample raw file containing JPEG images (not included in the reposito
 
 README.md: This file, explaining the project and how to run it.
 
+How to Run:
+
+Navigate to the Recover folder
+
+Compile the program
+
+Run the program with the raw file
+
+Check the output: JPEG files are created in the current directory.
+
+
